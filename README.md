@@ -2,8 +2,8 @@
 This project aims to develop deep learning models for classification to accurately identify and localize different types of obstructions or damages on solar panels.
 
 ## Project UI
+<img width="1431" height="723" alt="Solar_Guard_ui Screenshot 2025-07-24 at 10 24 55" src="https://github.com/user-attachments/assets/ed2b302f-7257-4221-8d19-a080fc014878" />
 
-<img width="1431" height="723" alt="Solar_Guard_ui Screenshot 2025-07-24 at 10 24 55" src="https://github.com/user-attachments/assets/7d59a1b2-1c54-46b1-8c4f-bdad0e3641ff" />
 
 ## Recorded video clip of UI
 
